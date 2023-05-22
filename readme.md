@@ -1,0 +1,1 @@
+### This API is used to generate text from a given image.
